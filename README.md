@@ -2,3 +2,5 @@
 Translations for the YouCoach app
 
 Uses https://gitlocalize.com/ (https://gitlocalize.com/repo/4470)
+
+(!) GitHub account required to add translations
