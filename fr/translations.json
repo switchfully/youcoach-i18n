@@ -1,21 +1,21 @@
 {
-  "navbar": {
-    "loggedin": "Connecté en tant que {{username}}",
-    "loggedout": "Pas connecté"
-  },
   "login": {
-    "title": "S'identifier",
     "button": {
       "login": "S'identifier",
       "logout": "Se déconnecter"
     },
     "label": {
-      "username": "Nom d'utilisateur",
-      "password": "mot de passe"
+      "password": "mot de passe",
+      "username": "Nom d'utilisateur"
     },
     "message": {
-      "loginsuccessful": "Connexion réussie",
-      "loginfailed": "Nom d'utilisateur ou mot de passe incorrect"
-    }
+      "loginfailed": "Nom d'utilisateur ou mot de passe incorrect",
+      "loginsuccessful": "Connexion réussie"
+    },
+    "title": "S'identifier"
+  },
+  "navbar": {
+    "loggedin": "Connecté en tant que {{username}}",
+    "loggedout": "Pas connectez"
   }
 }
