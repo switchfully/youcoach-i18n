@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "loggedin": "Connecté en tant que {{username}}",
+    "loggedout": "Pas connecté"
+  },
+  "login": {
+    "title": "S'identifier",
+    "button": {
+      "login": "S'identifier",
+      "logout": "Se déconnecter"
+    },
+    "label": {
+      "username": "Nom d'utilisateur",
+      "password": "mot de passe"
+    },
+    "message": {
+      "loginsuccessful": "Connexion réussie",
+      "loginfailed": "Nom d'utilisateur ou mot de passe incorrect"
+    }
+  }
+}
