@@ -1,0 +1,21 @@
+{
+  "navbar": {
+    "loggedin": "Ingelogd als {{gebruikersnaam}}",
+    "loggedout": "Niet ingelogd"
+  },
+  "login": {
+    "button": {
+      "login": "Log in",
+      "logout": "Uitloggen"
+    },
+    "label": {
+      "username": "gebruikersnaam",
+      "password": "wachtwoord"
+    },
+    "message": {
+      "loginsuccessful": "Succesvol ingelogd",
+      "loginfailed": "verkeerde gebruikersnaam of wachtwoord"
+    },
+    "title": "Aanmelden"
+  }
+}
