@@ -15,6 +15,7 @@
     "message": {
       "loginsuccessful": "Succesvol ingelogd",
       "loginfailed": "verkeerde gebruikersnaam of wachtwoord"
-    }
+    },
+    "title": "Aanmelden"
   }
 }
