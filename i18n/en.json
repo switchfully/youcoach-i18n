@@ -26,13 +26,19 @@
     },
     "button": {
       "register": "Register"
+    },
+    "message": {
+      "email-wrong-format": "The provided email address is not valid",
+      "email-in-use": "There is already a user registered with this email address",
+      "password-policy": "please provide a valid password (minimum 8 characters, 1 capital and 1 number)",
+      "password-match": "The provided passwords do not match"
     }
   },
   "sign-in": {
     "title": "Sign in",
     "label": {
       "email" : "Email",
-      "password": "password"
+      "password": "Password"
     },
     "button": {
       "sign-in": "Sign in",
