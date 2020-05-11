@@ -3,7 +3,10 @@
     "link": {
       "home": "Home",
       "about-us": "About us",
-      "contact": "Contact"
+      "contact": "Contact",
+      "my-profile" : "My profile",
+      "find-a-coach" : "Find a Coach",
+      "my-coach-profile": "My Coach Profile"
     },
     "button": {
       "sign-in": "Sign in",
@@ -63,11 +66,51 @@
       "first-name": "First Name",
       "last-name": "Last Name",
       "email": "Email",
-      "role" : "Role",
-      "profile-picture" : "Profile Picture"
+      "role": "Role",
+      "profile-picture": "Profile Picture"
     },
     "message": {
-      "change-email" : "Your email address is used to sign-in to the You-Coach application"
+      "change-email": "Your email address is used to sign-in to the You-Coach application"
+    }
+  },
+  "become-a-coach": {
+    "title": "Apply to become a coach",
+    "text": {
+      "under-construction": "This part of the application is currently still under construction. In order to become a coach please send an email to your administrator with the following information:\n\nYour full name\nYour motivation to become a coach\nThe list of topics (topic + grade) on which you would like to coach"
+    },
+    "button": {
+      "send-email": "Send Email"
+    }
+  },
+  "my-coach-profile-menu": {
+    "title": "My Coach Profile",
+    "link": {
+      "profile-information": "Profile Information",
+      "coaching-sessions": "Coaching Sessions",
+      "request-profile-change": "Request Profile Change"
+    }
+  },
+  "coach-profile-information": {
+    "title": "Profile information",
+    "label": {
+      "first-name": "First Name",
+      "last-name": "Last Name",
+      "email": "Email",
+      "profile-picture": "Profile Picture",
+      "introduction" : "Introduction",
+      "availability" : "Availability"
+    },
+    "message": {
+      "change-email": "Your email address is used to sign-in to the You-Coach application"
+    }
+  },
+  "request-profile-change": {
+    "title": "Request profile change",
+    "text": {
+      "under-construction": "This part of the application is currently still under construction. In order to request a change to your profile please send an email to your administrator with the following information:\n\nYour full name\nThe list of topics (topic + grade) for which you would like a change"
+    },
+    "button": {
+      "send-email": "Send Email"
     }
   }
 }
