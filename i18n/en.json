@@ -1,5 +1,8 @@
 {
-  "navbar": {
+  "menu": {
+    "label": {
+      "home": "Home"      
+    } 
     "loggedin": "Logged in as {{username}}",
     "loggedout": "Not logged in"
   },
