@@ -1,24 +1,46 @@
 {
   "menu": {
-    "label": {
-      "home": "Home"      
-    } 
-    "loggedin": "Logged in as {{username}}",
-    "loggedout": "Not logged in"
-  },
-  "login": {
-    "title": "Login",
+    "link": {
+      "home": "Home",
+      "about-us": "About us",
+      "contact": "Contact"
+    },
     "button": {
-      "login" : "Login",
-      "logout" : "Logout"
+      "sign-in": "Sign in",
+      "register": "register"
     },
     "label": {
-      "username" : "username",
-      "password" : "password"
+      "logged-in": "Logged in as {{username}}",
+      "logged-out": "Not logged in"
+    }
+  },
+  "register": {
+    "title": "Register",
+    "label": {
+      "first-name":"First Name",
+      "last-name": "Last Name",
+      "email": "Email",
+      "email-placeholder": "(used to sign in)",
+      "password": "Password",
+      "password2": "Password (again)"
+    },
+    "button": {
+      "register": "Register"
+    }
+  },
+  "sign-in": {
+    "title": "Sign in",
+    "label": {
+      "email" : "Email",
+      "password": "password"
+    },
+    "button": {
+      "sign-in": "Sign in",
+      "reset-password": "Reset Password"
     },
     "message": {
-      "loginsuccessful":"Login successful",
-      "loginfailed":"Wrong username or password"
+      "email-unknown" : "There is no user registered with this email address",
+      "login-failed": "Wrong combination of email and password"
     }
   }
 }
