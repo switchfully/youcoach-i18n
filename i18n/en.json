@@ -112,5 +112,14 @@
     "button": {
       "send-email": "Send Email"
     }
+  },
+  "coach-overview": {
+    "label": {
+      "filter-topic": "Filter by Topic",
+      "filter-topic-dropdown": "Choose your Topic",
+      "filter-grade": "Filter by Grade",
+      "filter-grade-dropdown": "Choose your Grade",
+      "search-placeholder" : "First name, last name or email"
+    }
   }
 }
