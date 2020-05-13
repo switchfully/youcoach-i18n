@@ -129,5 +129,21 @@
       "filter-year-dropdown": "Choose Year",
       "search-placeholder": "First name, last name or email"
     }
+  },
+  "request-session": {
+    "title": "Request a session",
+    "label": {
+      "subject": "On which topic/subject would you like to have a coaching session?",
+      "date": "Date",
+      "time": "Time",
+      "location": "Location",
+      "remarks": "Remarks for the coach"
+    },
+    "message": {
+      "date-past": "The date you've selected is in the past"
+    },
+    "button": {
+      "request-session": "Request Session"
+    }
   }
 }
