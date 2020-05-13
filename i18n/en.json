@@ -4,8 +4,8 @@
       "home": "Home",
       "about-us": "About us",
       "contact": "Contact",
-      "my-profile" : "My profile",
-      "find-a-coach" : "Find a Coach",
+      "my-profile": "My profile",
+      "find-a-coach": "Find a Coach",
       "my-coach-profile": "My Coach Profile"
     },
     "button": {
@@ -96,12 +96,20 @@
       "first-name": "First Name",
       "last-name": "Last Name",
       "email": "Email",
-      "profile-picture": "Profile Picture",
-      "introduction" : "Introduction",
-      "availability" : "Availability"
-    },
-    "message": {
-      "change-email": "Your email address is used to sign-in to the You-Coach application"
+      "profile-picture": "Profile Picture"
+    }
+  },
+  "coach-information": {
+    "title": "Coach information",
+    "label": {
+      "introduction": "Introduction",
+      "availability": "Availability"
+    }
+  },
+  "coaching-topics": {
+    "title": "Coaching topics",
+    "label": {
+      "year": "year"
     }
   },
   "request-profile-change": {
@@ -116,10 +124,10 @@
   "coach-overview": {
     "label": {
       "filter-topic": "Filter by Topic",
-      "filter-topic-dropdown": "Choose your Topic",
-      "filter-grade": "Filter by Grade",
-      "filter-grade-dropdown": "Choose your Grade",
-      "search-placeholder" : "First name, last name or email"
+      "filter-topic-dropdown": "Choose Topic",
+      "filter-year": "Filter by Year",
+      "filter-year-dropdown": "Choose Year",
+      "search-placeholder": "First name, last name or email"
     }
   }
 }
