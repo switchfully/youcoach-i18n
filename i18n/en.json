@@ -34,7 +34,12 @@
       "email-wrong-format": "The provided email address is not valid",
       "email-in-use": "There is already a user registered with this email address",
       "password-policy": "please provide a valid password (minimum 8 characters, 1 capital and 1 number)",
-      "password-match": "The provided passwords do not match"
+      "password-match": "The provided passwords do not match",
+      "first-name-required" : "required",
+      "last-name-required" : "required",
+      "email-required" : "required",
+      "password-required" : "required",
+      "password2-required" : "required"
     }
   },
   "sign-in": {
