@@ -1,0 +1,11 @@
+{
+  "menu": {
+    "link": {
+      "about-us": "Over ons",
+      "contact": "Contact"
+    },
+    "button": {
+      "sign-in": "Aanmelden"
+    }
+  }
+}
