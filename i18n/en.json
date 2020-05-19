@@ -90,7 +90,8 @@
     },
     "button": {
       "send-email": "Send Email"
-    }
+    },
+    "email-service": "'mailto:admin@youcoach.be?subject=Apply to become a coach&body=Write your name, motivation, and topic list'"
   },
   "my-coach-profile-menu": {
     "title": "My Coach Profile",
