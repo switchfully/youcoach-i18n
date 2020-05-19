@@ -1,0 +1,107 @@
+{
+  "menu": {
+    "link": {
+      "home": "Accueil",
+      "about-us": "À propos de nous",
+      "contact": "Contact",
+      "my-profile": "Mon profil"
+    },
+    "label": {
+      "logged-in": "Connecté en tant que {{username}}",
+      "logged-out": "Pas connecté"
+    }
+  },
+  "register": {
+    "title": "S'inscrire",
+    "label": {
+      "first-name": "Prénom",
+      "last-name": "Nom de famille",
+      "email": "Email",
+      "email-placeholder": "(utilisé pour se connecter)",
+      "password": "Mot de passe",
+      "password2": "Mot de passe (encore)"
+    },
+    "button": {
+      "register": "S'inscrire"
+    },
+    "message": {
+      "email-wrong-format": "L'adresse e-mail fournie n'est pas valide",
+      "email-in-use": "Il y a déjà un utilisateur enregistré avec cette adresse e-mail"
+    }
+  },
+  "sign-in": {
+    "label": {
+      "password": "Mot de passe"
+    },
+    "message": {
+      "email-unknown": "Aucun utilisateur n'est enregistré avec cette adresse e-mail",
+      "login-failed": "Mauvaise combinaison d'e-mail et de mot de passe"
+    }
+  },
+  "my-profile-menu": {
+    "title": "Mon profil",
+    "link": {
+      "coaching-sessions": "Séances de coaching",
+      "apply-to-become-a-coach": "Postuler pour devenir coach"
+    }
+  },
+  "profile-information": {
+    "label": {
+      "first-name": "Prénom",
+      "last-name": "Nom de famille",
+      "email": "Email",
+      "role": "Rôle",
+      "profile-picture": "Image de profil"
+    },
+    "message": {
+      "change-email": "Votre adresse e-mail est utilisée pour vous connecter à l'application You-Coach"
+    }
+  },
+  "become-a-coach": {
+    "title": "Postuler pour devenir coach",
+    "button": {
+      "send-email": "Envoyer un e-mail"
+    }
+  },
+  "my-coach-profile-menu": {
+    "title": "Mon profil d'entraîneur",
+    "link": {
+      "coaching-sessions": "Séances de coaching",
+      "request-profile-change": "Demander un changement de profil"
+    }
+  },
+  "coach-profile-information": {
+    "label": {
+      "first-name": "Prénom",
+      "last-name": "Nom de famille",
+      "email": "Email",
+      "profile-picture": "Image de profil"
+    }
+  },
+  "request-profile-change": {
+    "title": "Demander un changement de profil",
+    "button": {
+      "send-email": "Envoyer un e-mail"
+    }
+  },
+  "coach-overview": {
+    "label": {
+      "search-placeholder": "Prénom, nom ou email",
+      "filter-year": "Filtrer par année",
+      "filter-year-dropdown": "Choisissez l'année"
+    }
+  },
+  "coach-information": {
+    "label": {
+      "availability": "Disponibilité"
+    }
+  },
+  "request-session": {
+    "title": "Demander une session",
+    "label": {
+      "date": "Date",
+      "time": "Temps",
+      "location": "Emplacement"
+    }
+  }
+}
