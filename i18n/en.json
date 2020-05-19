@@ -10,7 +10,8 @@
     },
     "button": {
       "sign-in": "Sign in",
-      "register": "register"
+      "register": "register",
+      "log-out": "Sign out"
     },
     "label": {
       "logged-in": "Logged in as {{username}}",
