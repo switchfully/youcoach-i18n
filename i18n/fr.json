@@ -4,11 +4,17 @@
       "home": "Accueil",
       "about-us": "À propos de nous",
       "contact": "Contact",
-      "my-profile": "Mon profil"
+      "my-profile": "Mon profil",
+      "find-a-coach": "Trouvez un Coach",
+      "my-coach-profile": "Mon profil de Coach"
     },
     "label": {
       "logged-in": "Connecté en tant que {{username}}",
       "logged-out": "Pas connecté"
+    },
+    "button": {
+      "sign-in": "Se connecter",
+      "register": "Inscription"
     }
   },
   "register": {
@@ -26,23 +32,37 @@
     },
     "message": {
       "email-wrong-format": "L'adresse e-mail fournie n'est pas valide",
-      "email-in-use": "Il y a déjà un utilisateur enregistré avec cette adresse e-mail"
+      "email-in-use": "Il y a déjà un utilisateur enregistré avec cette adresse e-mail",
+      "password-policy": "Veuillez fournir un mot de passe valide (minimum 8 caractères, 1 majuscule et 1 chiffre)",
+      "password-match": "Les mots de passe ne correspondent pas",
+      "first-name-required": "Obligatoire",
+      "last-name-required": "Obligatoire",
+      "email-required": "Obligatoire",
+      "password-required": "Obligatoire",
+      "password2-required": "Obligatoire"
     }
   },
   "sign-in": {
     "label": {
-      "password": "Mot de passe"
+      "password": "Mot de passe",
+      "email": "E-mail"
     },
     "message": {
       "email-unknown": "Aucun utilisateur n'est enregistré avec cette adresse e-mail",
       "login-failed": "Mauvaise combinaison d'e-mail et de mot de passe"
+    },
+    "title": "Se connecter",
+    "button": {
+      "sign-in": "Se connecter",
+      "reset-password": "Réinitialiser le mot de passe"
     }
   },
   "my-profile-menu": {
     "title": "Mon profil",
     "link": {
       "coaching-sessions": "Séances de coaching",
-      "apply-to-become-a-coach": "Postuler pour devenir coach"
+      "apply-to-become-a-coach": "Postuler pour devenir coach",
+      "profile-information": "Informations du profil"
     }
   },
   "profile-information": {
@@ -55,19 +75,24 @@
     },
     "message": {
       "change-email": "Votre adresse e-mail est utilisée pour vous connecter à l'application You-Coach"
-    }
+    },
+    "title": "Informations du profil"
   },
   "become-a-coach": {
     "title": "Postuler pour devenir coach",
     "button": {
       "send-email": "Envoyer un e-mail"
+    },
+    "text": {
+      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour devenir coach, envoie un e-mail à l'administrateur avec les informations suivantes:  Ton nom complet, ta lettre de motivation pour devenir coach, la liste des matières (sujet + année) dans lesquelles tu souhaite coacher."
     }
   },
   "my-coach-profile-menu": {
     "title": "Mon profil d'entraîneur",
     "link": {
       "coaching-sessions": "Séances de coaching",
-      "request-profile-change": "Demander un changement de profil"
+      "request-profile-change": "Demander un changement de profil",
+      "profile-information": "Informations du profil"
     }
   },
   "coach-profile-information": {
@@ -76,32 +101,54 @@
       "last-name": "Nom de famille",
       "email": "Email",
       "profile-picture": "Image de profil"
-    }
+    },
+    "title": "Informations du profil"
   },
   "request-profile-change": {
     "title": "Demander un changement de profil",
     "button": {
       "send-email": "Envoyer un e-mail"
+    },
+    "text": {
+      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour demander une modification de votre profil, envoie un e-mail à l'administrateur avec les informations suivantes :  Ton nom complet, la liste des matières (sujet + note) pour lesquelles tu souhaite un changement."
     }
   },
   "coach-overview": {
     "label": {
       "search-placeholder": "Prénom, nom ou email",
       "filter-year": "Filtrer par année",
-      "filter-year-dropdown": "Choisissez l'année"
+      "filter-year-dropdown": "Choisissez l'année",
+      "filter-topic": "Filtrer par matière",
+      "filter-topic-dropdown": "Choisissez une matière"
     }
   },
   "coach-information": {
     "label": {
-      "availability": "Disponibilité"
-    }
+      "availability": "Disponibilité",
+      "introduction": "Introduction"
+    },
+    "title": "Informations sur le Coach"
   },
   "request-session": {
     "title": "Demander une session",
     "label": {
       "date": "Date",
       "time": "Temps",
-      "location": "Emplacement"
+      "location": "Emplacement",
+      "subject": "Sur quelle matière / sujet aimeriez-vous avoir une session de coaching?",
+      "remarks": "Remarques pour le Coach"
+    },
+    "message": {
+      "date-past": "La date que vous avez sélectionnée est passée"
+    },
+    "button": {
+      "request-session": "Demander une session"
+    }
+  },
+  "coaching-topics": {
+    "title": "Matières de coaching",
+    "label": {
+      "year": "Année"
     }
   }
 }
