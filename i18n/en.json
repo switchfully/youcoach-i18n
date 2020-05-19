@@ -18,6 +18,17 @@
       "logged-out": "Not logged in"
     }
   },
+  "footer": {
+    "youcoach-info": {
+      "youcoach": "YouCoach",
+      "youcoach-text": "You-Coach is an academic coaching program between students in secondary schools, supervised by the schools started by the "
+    },
+    "navigation": "Navigation",
+    "switchfully-text": {
+      "part-1": "Web application proudly created by ",
+      "part-2": " students."
+    }
+  },
   "register": {
     "title": "Register",
     "label": {
