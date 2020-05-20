@@ -14,7 +14,8 @@
     },
     "button": {
       "sign-in": "Se connecter",
-      "register": "Inscription"
+      "register": "Inscription",
+      "log-out": "Déconnexion"
     }
   },
   "register": {
