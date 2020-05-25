@@ -132,7 +132,8 @@
     },
     "button": {
       "send-email": "Send Email"
-    }
+    },
+    "email-service": "mailto:admin@youcoach.be?subject=Request coach profile change&body=Write your name and the list of topics (topic + grade) for which you would like a change"
   },
   "coach-overview": {
     "label": {
