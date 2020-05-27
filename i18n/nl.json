@@ -1,11 +1,43 @@
 {
   "menu": {
-    "link": {
-      "about-us": "Over ons",
-      "contact": "Contact"
-    },
     "button": {
       "sign-in": "Aanmelden"
+    },
+    "link": {
+      "about-us": "Over ons",
+      "contact": "Contact",
+      "home": "Homepage"
+    },
+    "label": {
+      "logged-in": "Ingelogd als {{username}}"
+    }
+  },
+  "register": {
+    "label": {
+      "password2": "Wachtwoord (opnieuw)"
+    },
+    "message": {
+      "password-policy": "Geef een geldig wachtwoord op (minimaal 8 tekens, 1 hoofdletter en 1 cijfer)"
+    }
+  },
+  "my-profile-menu": {
+    "link": {
+      "profile-information": "Profiel informatie"
+    }
+  },
+  "coach-information": {
+    "label": {
+      "introduction": "Introductie"
+    }
+  },
+  "request-session": {
+    "label": {
+      "subject": "Over welk onderwerp / onderwerp wil je graag een coaching sessie?"
+    }
+  },
+  "profile-information": {
+    "button": {
+      "cancel": "Annuleren"
     }
   }
 }
