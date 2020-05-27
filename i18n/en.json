@@ -122,8 +122,10 @@
   "coaching-topics": {
     "title": "Coaching topics",
     "label": {
+      "topic1": "Topic 1",
+      "topic2": "Topic 2",
       "year": "year"
-    }
+    }    
   },
   "request-profile-change": {
     "title": "Request profile change",
