@@ -176,6 +176,10 @@
       "where-when": "Where & when",
       "status": "Status",
       "action": "Action"
+    },
+    "button": {
+      "accept": "Accept",
+      "decline": "Decline"
     }
   }
 }
