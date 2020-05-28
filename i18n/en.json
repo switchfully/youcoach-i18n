@@ -116,7 +116,8 @@
     "title": "Coach information",
     "label": {
       "introduction": "Introduction",
-      "availability": "Availability"
+      "availability": "Availability",
+      "xp": "Coach XP"
     }
   },
   "coaching-topics": {
