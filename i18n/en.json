@@ -38,11 +38,11 @@
       "email-in-use": "There is already a user registered with this email address",
       "password-policy": "please provide a valid password (minimum 8 characters, 1 capital and 1 number)",
       "password-match": "The provided passwords do not match",
-      "first-name-required" : "required",
-      "last-name-required" : "required",
-      "email-required" : "required",
-      "password-required" : "required",
-      "password2-required" : "required"
+      "first-name-required": "required",
+      "last-name-required": "required",
+      "email-required": "required",
+      "password-required": "required",
+      "password2-required": "required"
     }
   },
   "sign-in": {
@@ -125,7 +125,7 @@
       "topic1": "Topic 1",
       "topic2": "Topic 2",
       "year": "year"
-    }    
+    }
   },
   "request-profile-change": {
     "title": "Request profile change",
@@ -161,6 +161,21 @@
     },
     "button": {
       "request-session": "Request Session"
+    }
+  },
+  "coaching-sessions": {
+    "title": {
+      "upcoming": "Upcoming sessions",
+      "feedback": "Waiting for feedback",
+      "archive": "Archive"
+    },
+    "label": {
+      "topic": "Topic",
+      "coach": "Coach",
+      "coachee": "Coachee",
+      "where-when": "Where & when",
+      "status": "Status",
+      "action": "Action"
     }
   }
 }
