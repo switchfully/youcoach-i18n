@@ -156,7 +156,8 @@
       "remarks": "Remarks for the coach"
     },
     "message": {
-      "date-past": "The date you've selected is in the past"
+      "date-past": "The date you've selected is in the past",
+      "field-required": "required"
     },
     "button": {
       "request-session": "Request Session"
