@@ -179,7 +179,8 @@
     },
     "button": {
       "accept": "Accept",
-      "decline": "Decline"
+      "decline": "Decline",
+      "feedback": "Feedback"
     }
   }
 }
