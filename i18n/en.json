@@ -195,7 +195,12 @@
       "feedback": "Session feedback"
     },
     "label": {
-      "feedback": "feedback"
+      "feedback": "Feedback",
+      "subject": "Subject",
+      "date-and-time": "Date and Time",
+      "location": "Location",
+      "remarks": "Remarks",
+      "status": "Status"
     },
     "button": {
       "detail": "Detail",
