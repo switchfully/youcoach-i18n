@@ -209,7 +209,8 @@
       "provide-feedback": "Provide Feedback",
       "accept": "Accept",
       "decline": "Decline",
-      "feedback": "Feedback"
+      "feedback": "Feedback",
+      "cancel": "Cancel"
     }
   },
   "REQUESTED": "Session requested",
