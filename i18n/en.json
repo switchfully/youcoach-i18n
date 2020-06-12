@@ -190,6 +190,21 @@
     }
   },
   "session-detail": {
+    "title": {
+      "info": "Session Information",
+      "feedback": "Session feedback"
+    },
+    "label": {
+      "feedback": "feedback"
+    },
+    "button": {
+      "detail": "Detail",
+      "finish-session": "Finish Session",
+      "provide-feedback": "Provide Feedback",
+      "accept": "Accept",
+      "decline": "Decline",
+      "feedback": "Feedback"
+    }
   },
   "REQUESTED": "Session requested",
   "ACCEPTED": "Session accepted",
