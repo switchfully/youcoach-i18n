@@ -183,7 +183,7 @@
     },
     "button": {
       "detail": "Detail",
-      "finish-session": "Finish Session",
+      "finish-session": "Session finished earlier",
       "provide-feedback": "Provide Feedback",
       "accept": "Accept",
       "decline": "Decline",
