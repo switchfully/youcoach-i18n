@@ -196,6 +196,8 @@
       "feedback": "Session feedback"
     },
     "label": {
+      "coach": "Coach",
+      "coachee": "Coachee",
       "coach-feedback": "Feedback from the coach",
       "feedback": "Feedback from the coachee",
       "subject": "Subject",
