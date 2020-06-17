@@ -206,9 +206,7 @@
       "date-and-time": "Date and Time",
       "location": "Location",
       "remarks": "Remarks",
-      "status": "Status",
-      "coach-free-text": "Free text",
-      "coachee-free-text": "Free text"
+      "status": "Status"
     },
     "message": {
       "coach-feedback-provided": "You can keep updating your feedback as long as the coachee hasn't provided feedback.",
@@ -216,7 +214,11 @@
     },
     "question": {
       "coachee-on-time": "Was the coachee on time?",
-      "coach-on-time": "Was the coach on time?"
+      "coach-on-time": "Was the coach on time?",
+      "coach-clear-explanation": "Were the explanations given by your Coach clear?",
+      "coach-useful-session": "Was the coaching session useful ?",
+      "what-did-you-like": "What did you like in the coaching session?",
+      "how-can-coach-get-better": "How could your Coach get better ?"
     },
     "button": {
       "detail": "Detail",
