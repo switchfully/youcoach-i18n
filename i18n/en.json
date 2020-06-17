@@ -212,6 +212,13 @@
       "coachee-free-text": "Free text",
       "coach-on-time": "Was the coach on time?"
     },
+    "message": {
+      "coach-feedback-provided": "You can update the feedback as long as the coachee hasn't provided feedback.",
+      "coachee-feedback-provided": "You can update the feedback as long as the coach hasn't provided feedback."
+    },
+    "question": {
+      "coachee-on-time": "Was the coachee on time?"
+    },
     "button": {
       "detail": "Detail",
       "finish-session": "Session finished earlier",
