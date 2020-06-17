@@ -207,8 +207,10 @@
       "location": "Location",
       "remarks": "Remarks",
       "status": "Status",
-      "coach-free-text": "Feedback from the coach",
-      "coachee-on-time": "Was the coachee on time?"
+      "coach-free-text": "Free text",
+      "coachee-on-time": "Was the coachee on time?",
+      "coachee-free-text": "Free text",
+      "coach-on-time": "Was the coach on time?"
     },
     "button": {
       "detail": "Detail",
