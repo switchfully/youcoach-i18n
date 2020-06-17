@@ -208,9 +208,7 @@
       "remarks": "Remarks",
       "status": "Status",
       "coach-free-text": "Free text",
-      "coachee-on-time": "Was the coachee on time?",
-      "coachee-free-text": "Free text",
-      "coach-on-time": "Was the coach on time?"
+      "coachee-free-text": "Free text"
     },
     "message": {
       "coach-feedback-provided": "You can update the feedback as long as the coachee hasn't provided feedback.",
@@ -218,6 +216,7 @@
     },
     "question": {
       "coachee-on-time": "Was the coachee on time?"
+      "coach-on-time": "Was the coach on time?"
     },
     "button": {
       "detail": "Detail",
