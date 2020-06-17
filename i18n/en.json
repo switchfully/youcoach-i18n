@@ -215,7 +215,7 @@
       "coachee-feedback-provided": "You can update the feedback as long as the coach hasn't provided feedback."
     },
     "question": {
-      "coachee-on-time": "Was the coachee on time?"
+      "coachee-on-time": "Was the coachee on time?",
       "coach-on-time": "Was the coach on time?"
     },
     "button": {
