@@ -216,9 +216,12 @@
       "coachee-on-time": "Was the coachee on time?",
       "coach-on-time": "Was the coach on time?",
       "coach-clear-explanation": "Were the explanations given by your Coach clear?",
-      "coach-useful-session": "Was the coaching session useful ?",
+      "coach-useful-session": "Was the coaching session useful?",
       "what-did-you-like": "What did you like in the coaching session?",
-      "how-can-coach-get-better": "How could your Coach get better ?"
+      "how-can-coach-get-better": "How could your Coach get better?",
+      "coach-willing-to-learn": "Was the Coachee willing to learn and make progress?",
+      "coach-well-prepared": "Was the Coachee well prepared for the coaching session?",
+      "how-can-coachee-get-better": "How could your Coachee get better?"
     },
     "button": {
       "detail": "Detail",
