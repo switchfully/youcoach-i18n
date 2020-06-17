@@ -194,6 +194,7 @@
     "title": {
       "info": "Session Information",
       "feedback": "Provide session feedback",
+      "feedback-overview": "Feedback Overview",
       "feedback-coach": "Feedback provided by coach",
       "feedback-coachee": "Feedback provided by coachee"
     },
