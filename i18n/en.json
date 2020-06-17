@@ -193,7 +193,9 @@
   "session-detail": {
     "title": {
       "info": "Session Information",
-      "feedback": "Session feedback"
+      "feedback": "Provide session feedback",
+      "feedback-coach": "Feedback provided by coach",
+      "feedback-coachee": "Feedback provided by coachee"
     },
     "label": {
       "coach": "Coach",
@@ -204,7 +206,9 @@
       "date-and-time": "Date and Time",
       "location": "Location",
       "remarks": "Remarks",
-      "status": "Status"
+      "status": "Status",
+      "coach-free-text": "Feedback from the coach",
+      "coachee-on-time": "Was the coachee on time?"
     },
     "button": {
       "detail": "Detail",
