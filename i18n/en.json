@@ -211,8 +211,8 @@
       "coachee-free-text": "Free text"
     },
     "message": {
-      "coach-feedback-provided": "You can update the feedback as long as the coachee hasn't provided feedback.",
-      "coachee-feedback-provided": "You can update the feedback as long as the coach hasn't provided feedback."
+      "coach-feedback-provided": "You can keep updating your feedback as long as the coachee hasn't provided feedback.",
+      "coachee-feedback-provided": "You can keep updating your feedback as long as the coach hasn't provided feedback."
     },
     "question": {
       "coachee-on-time": "Was the coachee on time?",
