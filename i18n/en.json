@@ -231,7 +231,7 @@
       "accept": "Accept",
       "decline": "Decline",
       "feedback": "Feedback",
-      "cancel": "Cancel"
+      "cancel": "Cancel Session"
     }
   },
   "REQUESTED": "Session requested",
