@@ -24,6 +24,7 @@
     "label": {
       "first-name": "First Name",
       "last-name": "Last Name",
+      "class-year": "Class Year",
       "email": "Email",
       "email-placeholder": "(used to sign in)",
       "password": "Password",
@@ -39,6 +40,7 @@
       "password-match": "The provided passwords do not match",
       "first-name-required": "required",
       "last-name-required": "required",
+      "class-year-required": "required",
       "email-required": "required",
       "password-required": "required",
       "password2-required": "required"
