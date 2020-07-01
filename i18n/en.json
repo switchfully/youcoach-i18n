@@ -243,7 +243,13 @@
       "first-name": "First Name",
       "last-name": "Last Name",
       "role": "Role"
+    },
+    "button": {
+      "coach": "Coach",
+      "coachee": "Coachee",
+      "admin": "Admin"
     }
+}
   },
   "enum": {
     "role": {
