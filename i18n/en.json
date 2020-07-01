@@ -240,6 +240,7 @@
   "admin-overview": {
     "title": "Admin Overview",
     "label": {
+      "search-profile": "Search Profile",
       "first-name": "First Name",
       "last-name": "Last Name",
       "role": "Role"
