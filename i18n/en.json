@@ -238,9 +238,10 @@
     }
   },
   "admin-overview": {
+    "title": "Admin Overview",
     "label": {
-      "first-name": "First Name"
-      "last-name": "First Name"
+      "first-name": "First Name",
+      "last-name": "Last Name",
       "role": "Role"
     }
   },
