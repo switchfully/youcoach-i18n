@@ -78,7 +78,10 @@
       "email": "Email",
       "role": "Role",
       "profile-picture": "Profile Picture",
-      "class": "Class"
+      "class": "Class",
+      "coachee": "Coachee",
+      "coach": "Coach",
+      "admin": "Admin"
     },
     "message": {
       "change-email": "Your email address is used to sign-in to the You-Coach application"
