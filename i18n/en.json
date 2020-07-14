@@ -79,6 +79,7 @@
       "role": "Role",
       "profile-picture": "Profile Picture",
       "class": "Class",
+      "class-year": "Class",
       "coachee": "Coachee",
       "coach": "Coach",
       "admin": "Admin"
