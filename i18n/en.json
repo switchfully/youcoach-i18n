@@ -111,6 +111,12 @@
       "request-profile-change": "Request Profile Change"
     }
   },
+  "admin-menu": {
+    "title": "Admin",
+    "link": {
+      "overview": "Admin overview"
+    }
+  },
   "coach-profile-information": {
     "title": "Profile information",
     "label": {
