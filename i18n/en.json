@@ -261,6 +261,16 @@
       "admin": "Admin"
     }
   },
+  "edit-topic": {
+    "title": "Edit topics",
+    "button": {
+      "cancel": "cancel",
+      "save": "save"
+    },
+    "label": {
+      "new-topic": "new topic"
+    }
+  },
   "enum": {
     "role": {
       "coachee": "coachee",
