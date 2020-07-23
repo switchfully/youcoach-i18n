@@ -8,7 +8,8 @@
       "find-a-coach": "Trouvez un Coach",
       "my-coach-profile": "Mon profil de Coach",
       "language": "Langue",
-      "admin-overview": "Aperçu de l'administrateur"
+      "admin-overview": "Aperçu de l'administrateur",
+      "bug": "Rapporter un Bug"
     },
     "button": {
       "sign-in": "Se connecter",
