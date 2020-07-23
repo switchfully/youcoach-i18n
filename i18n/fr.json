@@ -7,7 +7,8 @@
       "my-profile": "Mon profil",
       "find-a-coach": "Trouvez un Coach",
       "my-coach-profile": "Mon profil de Coach",
-      "language": "Langue"
+      "language": "Langue",
+      "admin-overview": "Aperçu de l'administrateur"
     },
     "button": {
       "sign-in": "Se connecter",
@@ -27,7 +28,8 @@
       "email": "Email",
       "email-placeholder": "(utilisé pour se connecter)",
       "password": "Mot de passe",
-      "password2": "Mot de passe (encore)"
+      "password2": "Mot de passe (encore)",
+      "class-year": "Année de la classe"
     },
     "button": {
       "register": "S'inscrire"
@@ -37,11 +39,12 @@
       "email-in-use": "Il y a déjà un utilisateur enregistré avec cette adresse e-mail",
       "password-policy": "Veuillez fournir un mot de passe valide (minimum 8 caractères, 1 majuscule et 1 chiffre)",
       "password-match": "Les mots de passe ne correspondent pas",
-      "first-name-required": "Obligatoire",
-      "last-name-required": "Obligatoire",
-      "email-required": "Obligatoire",
-      "password-required": "Obligatoire",
-      "password2-required": "Obligatoire"
+      "first-name-required": "requis",
+      "last-name-required": "requis",
+      "email-required": "requis",
+      "password-required": "requis",
+      "password2-required": "requis",
+      "class-year-required": "requis"
     }
   },
   "sign-in": {
@@ -74,7 +77,12 @@
       "last-name": "Nom de famille",
       "email": "Email",
       "role": "Rôle",
-      "profile-picture": "Image de profil"
+      "profile-picture": "Image de profil",
+      "class": "Classe",
+      "coachee": "Coaché",
+      "coach": "Coach",
+      "admin": "Admin",
+      "class-year": "Classe"
     },
     "message": {
       "change-email": "Votre adresse e-mail est utilisée pour vous connecter à l'application You-Coach"
@@ -92,6 +100,8 @@
     "button": {
       "send-email": "Envoyer un e-mail"
     },
+    "email-subject": "Postulez pour devenir coach",
+    "email-body": "Écrivez votre nom, votre motivation et votre liste de matières",
     "email-service": "mailto:admin@youcoach.be?subject=Demande pour devenir Coach&amp;body=Votre nom, votre motivation, et la liste des matières"
   },
   "my-coach-profile-menu": {
@@ -118,7 +128,9 @@
     },
     "button": {
       "send-email": "Envoyer un e-mail"
-    }
+    },
+    "email-subject": "Demander un changement de profil de Coach",
+    "email-body": "Écrivez votre nom et la liste des matières (sujet + année) pour lesquels vous souhaitez un changement"
   },
   "coach-overview": {
     "label": {
@@ -133,7 +145,8 @@
     "title": "Informations sur le Coach",
     "label": {
       "introduction": "Introduction",
-      "availability": "Disponibilité"
+      "availability": "Disponibilité",
+      "xp": "XP du Coach"
     }
   },
   "coaching-topics": {
@@ -149,15 +162,127 @@
     "label": {
       "subject": "Sur quelle matière / sujet aimeriez-vous avoir une session de coaching?",
       "date": "Date",
-      "time": "Temps",
+      "time": "Heure",
       "location": "Emplacement",
       "remarks": "Remarques pour le Coach"
     },
     "message": {
-      "date-past": "La date que vous avez sélectionnée est passée"
+      "date-past": "La date que vous avez sélectionnée est passée",
+      "field-required": "requis"
     },
     "button": {
       "request-session": "Demander une session"
+    }
+  },
+  "coaching-sessions": {
+    "title": {
+      "upcoming": "Sessions à venir",
+      "feedback": "En attente de feedback",
+      "archive": "Archive",
+      "requested": "Sessions demandées"
+    },
+    "label": {
+      "topic": "Sujet",
+      "coach": "Coach",
+      "coachee": "Coaché",
+      "where-when": "Ou & quand",
+      "status": "Statut",
+      "action": "Action"
+    },
+    "button": {
+      "accept": "Accepter",
+      "decline": "Refuser",
+      "detail": "Détail",
+      "finish-session": "La session s'est terminée plus tôt",
+      "provide-feedback": "Fournir un commentaire",
+      "cancel": "Annuler"
+    }
+  },
+  "REQUESTED": "Session demandée",
+  "ACCEPTED": "Session acceptée",
+  "WAITING_FOR_FEEDBACK": "En attente de commentaires",
+  "CANCELLED": "Annulé",
+  "DECLINED": "Refusé",
+  "FEEDBACK_PROVIDED": "Commentaires fournis",
+  "session-detail": {
+    "title": {
+      "info": "Informations sur la session",
+      "feedback": "Fournir des commentaires sur la session",
+      "feedback-coach": "Commentaires du Coach",
+      "feedback-coachee": "Commentaires du coaché",
+      "feedback-overview": "Aperçu des commentaires"
+    },
+    "label": {
+      "feedback": "Commentaires du coaché",
+      "subject": "Sujet",
+      "date-and-time": "Date et heure",
+      "location": "Emplacement",
+      "remarks": "Remarques",
+      "status": "Statut",
+      "coach-feedback": "Commentaires du coach",
+      "coach": "Coach",
+      "coachee": "Coaché"
+    },
+    "button": {
+      "detail": "Détail",
+      "finish-session": "La session s'est terminée plus tôt",
+      "provide-feedback": "Envoyer un commentaire",
+      "accept": "Accepter",
+      "decline": "Refuser",
+      "feedback": "Commentaire",
+      "cancel": "Annuler la session"
+    },
+    "message": {
+      "coach-feedback-provided": "Vous pouvez continuer à mettre à jour vos commentaires tant que le Coaché n'a pas fourni de commentaires.",
+      "coachee-feedback-provided": "Vous pouvez continuer à mettre à jour vos commentaires tant que le Coach n'a pas fourni de commentaires."
+    },
+    "question": {
+      "coachee-on-time": "Le Coaché était-il à l'heure?",
+      "coach-on-time": "Le Coach était-il à l'heure?",
+      "coach-clear-explanation": "Les explications données par votre Coach étaient-elles claires?",
+      "coach-useful-session": "La séance de coaching a-t-elle été utile?",
+      "what-did-you-like": "Qu'avez-vous aimé dans la séance de coaching?",
+      "how-can-coach-get-better": "Comment votre Coach pourrait-il s'améliorer?",
+      "coach-willing-to-learn": "Le Coaché était-il prêt à apprendre et à progresser?",
+      "coach-well-prepared": "Le Coaché était-il bien préparé pour la séance?",
+      "how-can-coachee-get-better": "Comment votre Coaché pourrait-il s'améliorer?"
+    }
+  },
+  "admin-overview": {
+    "title": "Aperçu de l'administrateur",
+    "label": {
+      "first-name": "Prénom",
+      "last-name": "Nom de famille",
+      "role": "Rôle",
+      "search-profile": "Rechercher un profil"
+    },
+    "button": {
+      "coach": "Coach",
+      "coachee": "Coaché",
+      "admin": "Admin"
+    }
+  },
+  "enum": {
+    "role": {
+      "coachee": "Coaché",
+      "coach": "Coach",
+      "admin": "Admin"
+    }
+  },
+  "admin-menu": {
+    "title": "Admin",
+    "link": {
+      "overview": "Aperçu de l'administrateur"
+    }
+  },
+  "edit-topic": {
+    "title": "Modifier les sujets",
+    "button": {
+      "cancel": "Annuler",
+      "save": "Enregistrer"
+    },
+    "label": {
+      "new-topic": "Nouveau sujet"
     }
   }
 }
