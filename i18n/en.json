@@ -253,12 +253,18 @@
       "search-profile": "Search Profile",
       "first-name": "First Name",
       "last-name": "Last Name",
+      "class": "Class",
       "role": "Role"
     },
     "button": {
       "coach": "Coach",
       "coachee": "Coachee",
       "admin": "Admin"
+    }
+  },
+  "update-image": {
+    "message": {
+      "file-too-big": "Profile images have a maximum size of 3MB"
     }
   },
   "edit-topic": {
