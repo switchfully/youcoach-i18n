@@ -64,6 +64,7 @@
     }
   },
   "my-profile-menu": {
+    "admin-title": "Profile of: ",
     "title": "My Profile",
     "link": {
       "profile-information": "Profile Information",
