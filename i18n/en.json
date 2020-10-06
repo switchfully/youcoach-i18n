@@ -156,6 +156,9 @@
     "email-body": "Write your name and the list of topics (topic + grade) for which you would like a change"
   },
   "coach-overview": {
+    "message": {
+      "no-coaches-found": "No coaches found"
+    },
     "label": {
       "filter-topic": "Filter by Topic",
       "filter-topic-dropdown": "Choose Topic",
