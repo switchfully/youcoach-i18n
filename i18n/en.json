@@ -268,7 +268,8 @@
       "first-name": "First Name",
       "last-name": "Last Name",
       "class": "Class",
-      "role": "Role"
+      "role": "Role",
+      "delete": "Delete Profile"
     },
     "button": {
       "coach": "Coach",
