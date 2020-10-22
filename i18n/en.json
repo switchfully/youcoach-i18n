@@ -3,15 +3,21 @@
     "link": {
       "about-us": "About us",
       "admin-overview": "Admin Overview",
+      "apply-to-become-a-coach": "Apply to become a coach",
       "bug" : "Bug Report",
       "coaching-sessions": "Coaching Sessions",
+      "coach-sessions": "Coaching Sessions As Coach",
+      "coachee-sessions": "Coaching Sessions",
+      "coachee-profile-information": "My Profile",
+      "coach-profile-information": "My Coach Profile",
       "contact": "Contact",
       "find-a-coach": "Find a Coach",
       "home": "Home",
       "language": "Language",
-      "my-profile": "My profile",
+      "my-profile": "My Profile",
       "my-coach-profile": "My Coach Profile",
       "profile": "Profile",
+      "request-profile-change": "Request Profile Change",
       "switch-language": "Switch Language"
     },
     "button": {
