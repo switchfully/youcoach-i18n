@@ -11,7 +11,8 @@
       "language": "Language",
       "my-profile": "My profile",
       "my-coach-profile": "My Coach Profile",
-      "profile": "Profile"
+      "profile": "Profile",
+      "switch-language": "Switch Language"
     },
     "button": {
       "sign-in": "Sign in",
