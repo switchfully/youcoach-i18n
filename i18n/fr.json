@@ -9,7 +9,16 @@
       "my-coach-profile": "Mon profil de Coach",
       "language": "Langue",
       "admin-overview": "Aperçu de l'administrateur",
-      "bug": "Rapporter un Bug"
+      "bug": "Rapporter un Bug",
+      "coaching-sessions": "Séances de coaching",
+      "profile": "Profil",
+      "switch-language": "Changer de langue",
+      "apply-to-become-a-coach": "Postulez pour devenir coach",
+      "coach-sessions": "Séances de coaching en tant que coach",
+      "coachee-sessions": "Séances de coaching",
+      "coachee-profile-information": "Mon profil",
+      "coach-profile-information": "Mon profil de coach",
+      "request-profile-change": "Demander un changement de profil"
     },
     "button": {
       "sign-in": "Se connecter",
@@ -69,7 +78,8 @@
       "profile-information": "Informations du profil",
       "coaching-sessions": "Séances de coaching",
       "apply-to-become-a-coach": "Postuler pour devenir coach"
-    }
+    },
+    "admin-title": "Profil de"
   },
   "profile-information": {
     "title": "Informations du profil",
@@ -83,7 +93,7 @@
       "coachee": "Coaché",
       "coach": "Coach",
       "admin": "Admin",
-      "class-year": "Classe"
+      "class-year": "Année"
     },
     "message": {
       "change-email": "Votre adresse e-mail est utilisée pour vous connecter à l'application You-Coach"
@@ -140,6 +150,9 @@
       "search-placeholder": "Prénom, nom ou email",
       "filter-year": "Filtrer par année",
       "filter-year-dropdown": "Choisissez l'année"
+    },
+    "message": {
+      "no-coaches-found": "Aucun coach trouvé"
     }
   },
   "coach-information": {
@@ -255,7 +268,9 @@
       "first-name": "Prénom",
       "last-name": "Nom de famille",
       "role": "Rôle",
-      "search-profile": "Rechercher un profil"
+      "search-profile": "Rechercher un profil",
+      "class": "Année",
+      "delete": "Supprimer le profil"
     },
     "button": {
       "coach": "Coach",
@@ -267,13 +282,13 @@
     "role": {
       "coachee": "Coaché",
       "coach": "Coach",
-      "admin": "Admin"
+      "admin": "Administrateur"
     }
   },
   "admin-menu": {
     "title": "Admin",
     "link": {
-      "overview": "Aperçu de l'administrateur"
+      "overview": "Administration"
     }
   },
   "edit-topic": {
@@ -284,6 +299,11 @@
     },
     "label": {
       "new-topic": "Nouveau sujet"
+    }
+  },
+  "update-image": {
+    "message": {
+      "file-too-big": "Les images de profil ont une taille maximale de 3 Mo"
     }
   }
 }
