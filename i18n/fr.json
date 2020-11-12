@@ -5,7 +5,7 @@
       "about-us": "À propos de nous",
       "contact": "Contact",
       "my-profile": "Mon profil",
-      "find-a-coach": "Trouvez un Coach",
+      "find-a-coach": "Trouver un Coach",
       "my-coach-profile": "Mon profil de Coach",
       "language": "Langue",
       "admin-overview": "Aperçu de l'administrateur",
@@ -18,15 +18,16 @@
       "coachee-sessions": "Séances de coaching",
       "coachee-profile-information": "Mon profil",
       "coach-profile-information": "Mon profil de coach",
-      "request-profile-change": "Demander un changement de profil"
+      "request-profile-change": "Mettre à jour son profil"
     },
     "button": {
       "sign-in": "Se connecter",
       "register": "Inscription",
-      "log-out": "Déconnecter"
+      "log-out": "Déconnecter",
+      "FAQ": "Aide"
     },
     "label": {
-      "logged-in": "Connecté en tant que {{username}}",
+      "logged-in": "{{username}}",
       "logged-out": "Pas connecté"
     }
   },
@@ -104,7 +105,7 @@
     }
   },
   "become-a-coach": {
-    "title": "Postuler pour devenir coach",
+    "title": "Postuler pour devenir Coach",
     "text": {
       "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour devenir coach, envoie un e-mail à l'administrateur avec les informations suivantes:  Ton nom complet, ta lettre de motivation pour devenir coach, la liste des matières (sujet + année) dans lesquelles tu souhaite coacher."
     },
