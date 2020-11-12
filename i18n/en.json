@@ -23,10 +23,11 @@
     "button": {
       "sign-in": "Sign in",
       "register": "Register",
-      "log-out": "Sign out"
+      "log-out": "Sign out",
+      "FAQ": "Help"
     },
     "label": {
-      "logged-in": "Logged in as {{username}}",
+      "logged-in": "{{username}}",
       "logged-out": "Not logged in"
     }
   },
