@@ -112,7 +112,7 @@
     "button": {
       "send-email": "Envoyer un e-mail"
     },
-    "email-subject": "Postulez pour devenir coach",
+    "email-subject": "Devenir Coach?",
     "email-body": "Écrivez votre nom, votre motivation et votre liste de matières",
     "email-service": "mailto:admin@youcoach.be?subject=Demande pour devenir Coach&amp;body=Votre nom, votre motivation, et la liste des matières"
   },
