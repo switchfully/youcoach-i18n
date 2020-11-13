@@ -300,6 +300,9 @@
       "admin": "admin"
     }
   },
+  "footer":{
+    "message": "You-Coach is an academic coaching program between students in secondary schools, supervised by the schools started by the "
+  },
   "REQUESTED": "Session requested",
   "ACCEPTED": "Session accepted",
   "WAITING_FOR_FEEDBACK": "Waiting for feedback",
