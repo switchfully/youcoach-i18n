@@ -306,5 +306,8 @@
     "message": {
       "file-too-big": "Les images de profil ont une taille maximale de 3 Mo"
     }
+  },
+  "footer": {
+    "message": "You-Coach est un programme de coaching académique entre élèves du secondaire, encadré par les écoles et créé par la "
   }
 }
