@@ -157,7 +157,11 @@
   "request-profile-change": {
     "title": "Request profile change",
     "text": {
+      "change-topics": "You can send a request to change your topics. Please write to which topics you want to change and then press send mail.",
       "under-construction": "This part of the application is currently still under construction. In order to request a change to your profile please send an email to your administrator with the following information:\n\nYour full name\nThe list of topics (topic + grade) for which you would like a change"
+    },
+    "label": {
+      "mail-content": "Mail content"
     },
     "button": {
       "send-email": "Send Email"
