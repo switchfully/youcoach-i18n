@@ -157,15 +157,18 @@
   "request-profile-change": {
     "title": "Request profile change",
     "text": {
-      "become-a-coach": "If you would like to become a coach please write down the reason why and send a mail.",
-      "change-topics": "You can send a request to change your topics. Please write to which topics you want to change and then press send mail.",
+      "become-a-coach": "You can send a request to become a coach here. Please clarify why you would want to become a coach.",
+      "change-topics": "You can send a request to change your subjects here. Please list the subjects you are enrolled in.",
       "under-construction": "This part of the application is currently still under construction. In order to request a change to your profile please send an email to your administrator with the following information:\n\nYour full name\nThe list of topics (topic + grade) for which you would like a change"
     },
     "label": {
       "mail-content": "Mail content"
     },
+    "link": {
+      "faq": "More explanation can be found here"
+    },
     "button": {
-      "send-email": "Send Email"
+      "send-email": "Send Request"
     },
     "email-subject": "Request coach profile change",
     "email-body": "Write your name and the list of topics (topic + grade) for which you would like a change"
