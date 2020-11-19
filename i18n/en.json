@@ -169,7 +169,7 @@
       "faq": "More explanation can be found here"
     },
     "button": {
-      "send-email": "Send Request"
+      "send-email": "Send Request",
       "sending-email": "Sending mail"
     },
     "email-subject": "Request coach profile change",
