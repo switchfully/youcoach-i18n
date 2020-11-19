@@ -170,6 +170,7 @@
     },
     "button": {
       "send-email": "Send Request"
+      "sending-email": "Sending mail"
     },
     "email-subject": "Request coach profile change",
     "email-body": "Write your name and the list of topics (topic + grade) for which you would like a change"
