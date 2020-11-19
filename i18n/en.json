@@ -70,6 +70,7 @@
     },
     "message": {
       "email-unknown": "There is no user registered with this email address",
+      "something-went-wrong": "Something went wrong on our side. Please try again later while we try to fix the problem.",
       "login-failed": "Wrong combination of email and password"
     }
   },
