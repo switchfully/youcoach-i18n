@@ -108,7 +108,11 @@
   "become-a-coach": {
     "title": "Apply to become a coach",
     "text": {
+      "become-a-coach":"In order to become a Coach, you need to contact the administrator and explain him why you want to do it, the topic(s) you are going to coach and your current results in each topic.",
       "under-construction": "This part of the application is currently still under construction. In order to become a coach please send an email to your administrator with the following information:\n\nYour full name\nYour motivation to become a coach\nThe list of topics (topic + grade) on which you would like to coach"
+    },
+    "label": {
+      "mail-content": "Write here why and in which topic you want to become a coach."
     },
     "button": {
       "send-email": "Send Email"
@@ -137,7 +141,8 @@
       "last-name": "Last Name",
       "email": "Email",
       "profile-picture": "Profile Picture"
-    }
+    },
+    "button": "Edit profile"
   },
   "coach-information": {
     "title": "Coach information",
@@ -145,7 +150,8 @@
       "introduction": "Introduction",
       "availability": "Availability",
       "xp": "Coach XP"
-    }
+    },
+    "button": "Edit informations"
   },
   "coaching-topics": {
     "title": "Coaching topics",
@@ -153,20 +159,20 @@
       "topic1": "Topic 1",
       "topic2": "Topic 2",
       "year": "year"
-    }
+    },
+    "button": "Edit Topics"
   },
   "request-profile-change": {
     "title": "Request profile change",
     "text": {
-      "become-a-coach": "You can send a request to become a coach here. Please clarify why you would want to become a coach.",
       "change-topics": "You can send a request to change your subjects here. Please list the subjects you are enrolled in.",
       "under-construction": "This part of the application is currently still under construction. In order to request a change to your profile please send an email to your administrator with the following information:\n\nYour full name\nThe list of topics (topic + grade) for which you would like a change"
     },
     "label": {
-      "mail-content": "Mail content"
+      "mail-content": "Write here the reason of this change"
     },
     "link": {
-      "faq": "More explanation can be found here"
+      "faq": "Help page"
     },
     "button": {
       "send-email": "Send Request",
