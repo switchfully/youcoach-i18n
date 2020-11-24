@@ -70,7 +70,8 @@
     },
     "message": {
       "email-unknown": "Aucun utilisateur n'est enregistré avec cette adresse e-mail",
-      "login-failed": "Mauvaise combinaison d'e-mail et de mot de passe"
+      "login-failed": "Mauvaise combinaison d'e-mail et de mot de passe",
+      "something-went-wrong": "Quelque chose s'est mal passé de notre côté. Veuillez réessayer plus tard pendant que nous essayons de résoudre le problème."
     }
   },
   "my-profile-menu": {
@@ -107,13 +108,17 @@
   "become-a-coach": {
     "title": "Postuler pour devenir Coach",
     "text": {
-      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour devenir coach, envoie un e-mail à l'administrateur avec les informations suivantes:  Ton nom complet, ta lettre de motivation pour devenir coach, la liste des matières (sujet + année) dans lesquelles tu souhaite coacher."
+      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour devenir coach, envoie un e-mail à l'administrateur avec les informations suivantes:  Ton nom complet, ta lettre de motivation pour devenir coach, la liste des matières (sujet + année) dans lesquelles tu souhaite coacher.",
+      "become-a-coach": "Pour devenir Coach, vous devez contacter l'administrateur et lui expliquer pourquoi vous voulez le faire, le (s) sujet (s) que vous allez coacher et vos résultats actuels dans chaque branche."
     },
     "button": {
       "send-email": "Envoyer un e-mail"
     },
     "email-subject": "Devenir Coach?",
     "email-body": "Écrivez votre nom, votre motivation et votre liste de matières",
+    "label": {
+      "mail-content": "Écrivez ici pourquoi et dans quel sujet vous souhaitez devenir Coach."
+    },
     "email-service": "mailto:admin@youcoach.be?subject=Demande pour devenir Coach&amp;body=Votre nom, votre motivation, et la liste des matières"
   },
   "my-coach-profile-menu": {
@@ -131,18 +136,27 @@
       "last-name": "Nom de famille",
       "email": "Email",
       "profile-picture": "Image de profil"
-    }
+    },
+    "button": "Editer le profil"
   },
   "request-profile-change": {
     "title": "Demander un changement de profil",
     "text": {
-      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour demander une modification de votre profil, envoie un e-mail à l'administrateur avec les informations suivantes :  Ton nom complet, la liste des matières (sujet + note) pour lesquelles tu souhaite un changement."
+      "under-construction": "Cette partie de l'application est actuellement encore en construction. Pour demander une modification de votre profil, envoie un e-mail à l'administrateur avec les informations suivantes :  Ton nom complet, la liste des matières (sujet + note) pour lesquelles tu souhaite un changement.",
+      "change-topics": "Vous pouvez envoyer une demande pour changer vos sujets ici. Veuillez énumérer les matières auxquelles vous êtes inscrit."
     },
     "button": {
-      "send-email": "Envoyer un e-mail"
+      "send-email": "Envoyer un e-mail",
+      "sending-email": "Envoi en cours"
     },
     "email-subject": "Demander un changement de profil de Coach",
-    "email-body": "Écrivez votre nom et la liste des matières (sujet + année) pour lesquels vous souhaitez un changement"
+    "email-body": "Écrivez votre nom et la liste des matières (sujet + année) pour lesquels vous souhaitez un changement",
+    "label": {
+      "mail-content": "Contenu du courrier"
+    },
+    "link": {
+      "faq": "Plus d'explications peuvent être trouvées ici"
+    }
   },
   "coach-overview": {
     "label": {
@@ -162,7 +176,8 @@
       "introduction": "Introduction",
       "availability": "Disponibilité",
       "xp": "XP du Coach"
-    }
+    },
+    "button": "Modifier les informations"
   },
   "coaching-topics": {
     "title": "Matières de coaching",
@@ -170,7 +185,8 @@
       "year": "Année",
       "topic1": "Sujet 1",
       "topic2": "Sujet 2"
-    }
+    },
+    "button": "Modifier les sujets"
   },
   "request-session": {
     "title": "Demander une session",
